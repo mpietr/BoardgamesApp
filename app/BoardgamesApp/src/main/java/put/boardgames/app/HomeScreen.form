@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="put.boardgames.app.HomeScreen">
+  <grid id="27dc6" binding="homePanel" layout-manager="GridLayoutManager" row-count="6" column-count="2" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="32" left="32" bottom="32" right="32"/>
+    <constraints>
+      <xy x="20" y="20" width="568" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="5bd1e" class="javax.swing.JButton" binding="dodajGreButton">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Dodaj grę"/>
+        </properties>
+      </component>
+      <component id="8d8eb" class="javax.swing.JLabel" binding="titleLabel">
+        <constraints>
+          <grid row="0" column="0" row-span="1" col-span="2" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <font size="28"/>
+          <text value="Zarządzaj spotkaniami planszówkowymi:"/>
+        </properties>
+      </component>
+      <component id="cd5f4" class="javax.swing.JButton" binding="dodajGraczaButton" default-binding="true">
+        <constraints>
+          <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Dodaj gracza"/>
+        </properties>
+      </component>
+      <component id="20b77" class="javax.swing.JButton" binding="dodajRozszerzenieButton" default-binding="true">
+        <constraints>
+          <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Dodaj rozszerzenie"/>
+        </properties>
+      </component>
+      <component id="b0b12" class="javax.swing.JButton" binding="dodajSpotkanieButton" default-binding="true">
+        <constraints>
+          <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Dodaj spotkanie"/>
+        </properties>
+      </component>
+      <component id="721ef" class="javax.swing.JButton" binding="dodajRozgrywkeButton">
+        <constraints>
+          <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Dodaj rozgrywkę"/>
+        </properties>
+      </component>
+      <component id="b3e3c" class="javax.swing.JButton" binding="profilGraczaButton" default-binding="true">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Profil gracza"/>
+        </properties>
+      </component>
+      <component id="35f76" class="javax.swing.JButton" binding="informacjeOSpotkaniuButton" default-binding="true">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Informacje o spotkaniu"/>
+        </properties>
+      </component>
+      <component id="576a5" class="javax.swing.JButton" binding="informacjeOGrachButton" default-binding="true">
+        <constraints>
+          <grid row="3" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Informacje o grach"/>
+        </properties>
+      </component>
+      <component id="fc661" class="javax.swing.JButton" binding="wyjdzButton">
+        <constraints>
+          <grid row="5" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <foreground color="-16777216"/>
+          <text value="Szukaj gracza"/>
+        </properties>
+      </component>
+      <component id="69a1c" class="javax.swing.JButton" binding="zarzadzajDanymiButton">
+        <constraints>
+          <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+        </constraints>
+        <properties>
+          <text value="Zarządzaj danymi"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

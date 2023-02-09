@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0bfd3ee6-282e-47ad-97f8-4781bf7552f9" name="Changes" comment="Small fixes" />
+    <list id="f652a760-7c69-46d4-b025-863ec64ea479" name="Changes by Mariusz" comment="Changes by Mariusz" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="main-todo" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2JpZPn37U2cE4VXZpP1tb0lrCzD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TODO_SCOPE": "All Places",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH": "164",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "383",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Studia/.Projects/BoardgamesApp/app/BoardgamesApp",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "oracle"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="BoardgamesApp" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="put.boardgames.app.Main" />
+      <module name="BoardgamesApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bfd3ee6-282e-47ad-97f8-4781bf7552f9" name="Changes" comment="" />
+      <created>1672776966776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672776966776</updated>
+      <workItem from="1672776968538" duration="9531000" />
+      <workItem from="1672788184033" duration="149000" />
+      <workItem from="1672832663052" duration="18912000" />
+      <workItem from="1673196629917" duration="9101000" />
+      <workItem from="1673543805638" duration="679000" />
+      <workItem from="1673721358818" duration="21706000" />
+      <workItem from="1673778419706" duration="27967000" />
+      <workItem from="1673881607388" duration="18551000" />
+      <workItem from="1673905520334" duration="536000" />
+      <workItem from="1673906069999" duration="596000" />
+      <workItem from="1674011751090" duration="11956000" />
+      <workItem from="1674049537513" duration="5319000" />
+      <workItem from="1674080923607" duration="1141000" />
+      <workItem from="1674491037079" duration="6548000" />
+      <workItem from="1674505247043" duration="4845000" />
+      <workItem from="1674543869360" duration="28686000" />
+      <workItem from="1674639038831" duration="141000" />
+      <workItem from="1674754471358" duration="5329000" />
+      <workItem from="1674797769468" duration="3424000" />
+      <workItem from="1674803804783" duration="134000" />
+      <workItem from="1674809464694" duration="2093000" />
+      <workItem from="1674811696345" duration="1435000" />
+      <workItem from="1675943293658" duration="386000" />
+    </task>
+    <task id="LOCAL-00009" summary="Add restriction of spinners values in AddGame">
+      <created>1672859414017</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1672859414017</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add AddMeeting Screen and setup ComboBoxes">
+      <created>1672870327596</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1672870327596</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add AddMatch screen rough sketch">
+      <created>1673206004343</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673206004343</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add option to add food to a meeting">
+      <created>1673206030990</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1673206030990</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Finish AddGame functionality">
+      <created>1673725334372</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1673725334372</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Finish AddPlayer functionality">
+      <created>1673727981838</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1673727981838</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Add AddGame improvements">
+      <created>1673741052725</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1673741052725</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Add AddExpansion functionality and GUI improvements">
+      <created>1673741085593</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1673741085594</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Add inserting Meeting in AddMeeting">
+      <created>1673786716926</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1673786716926</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Add UpdateData screen rough sketch">
+      <created>1673790486962</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1673790486962</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Add panel for editing game">
+      <created>1673812171013</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1673812171013</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Add panel for editing expansion">
+      <created>1673814587415</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1673814587415</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Add panel for editing player">
+      <created>1673816386039</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1673816386039</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Add basic functionality of AddExpansion panel">
+      <created>1673820912367</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1673820912367</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Delete redundant component in AddMeeting">
+      <created>1673822284596</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1673822284596</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Add full AddMeeting functionality">
+      <created>1673884329693</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1673884329693</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Add match duration TextField to AddMatch">
+      <created>1673887077323</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1673887077323</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Add inserting set of game and expansions in AddMatch">
+      <created>1673890120618</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1673890120618</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Add inserting match in AddMatch">
+      <created>1673891552976</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1673891552976</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Fix AddMeeting bugs">
+      <created>1673897866426</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1673897866426</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Add full AddMatch functionality">
+      <created>1673897903388</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1673897903388</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Fix maxGraczySpinner to always show value equal or larger">
+      <created>1673901975246</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1673901975246</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Fix-fix maxGraczySpinner to always show value equal or larger">
+      <created>1673902628999</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1673902628999</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Add option to edit game of expansion with correct id">
+      <created>1674014179619</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1674014179619</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Fix inserting food">
+      <created>1674016086122</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1674016086122</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Add edit meeeting form - ugly but functional">
+      <created>1674019420479</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1674019420479</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Add basic editMatch sketch">
+      <created>1674024786668</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1674024786669</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Add showing matches in table and panel with delete option only">
+      <created>1674054008151</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1674054008151</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Add option to add rating to a game">
+      <created>1674493235128</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1674493235128</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Add game rating in UpdateData">
+      <created>1674496143154</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1674496143154</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Add Player Profile">
+      <created>1674516428309</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1674516428309</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Add Meeting Data panel">
+      <created>1674550786093</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1674550786093</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Fix game stats being double shown in player profile">
+      <created>1674551521106</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1674551521106</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Add back button listener for MeetingData and a bit of refactoring">
+      <created>1674551794628</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1674551794628</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Add basic GameData screen">
+      <created>1674559097065</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1674559097065</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Fix adding meeting">
+      <created>1674588196847</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1674588196847</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Add refresh view after adding to database and entering panel + small fixes">
+      <created>1674603615669</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1674603615669</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Fix adding meeting without food and null exception in miejsceComboBox">
+      <created>1674604400339</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1674604400339</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Fix showing empty expansions list in AddExpansion">
+      <created>1674605362332</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1674605362332</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Minor changes in MeetingData">
+      <created>1674605622733</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1674605622733</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Fix null pointer exception in UpdateData.miejsceSpotkaniaComboBox listener">
+      <created>1674606547449</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1674606547449</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Change table cells to uneditable where desired">
+      <created>1674607719471</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1674607719471</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Some TODOs">
+      <created>1674755919817</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1674755919818</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Fix deleting expansion and deleting/adding food">
+      <created>1674758239078</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1674758239078</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Fixes">
+      <created>1674759740778</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1674759740778</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Changes by Mariusz">
+      <created>1674759767683</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1674759767683</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Fixes">
+      <created>1674799992629</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1674799992629</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Fix miejsceComboBox values in AddMeeting">
+      <created>1674801193351</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1674801193351</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Small fixes">
+      <created>1674811544873</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1674811544873</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add option to edit game of expansion with correct id" />
+    <MESSAGE value="Fix inserting food" />
+    <MESSAGE value="Add edit meeeting form - ugly but functional" />
+    <MESSAGE value="Add basic editMatch sketch" />
+    <MESSAGE value="Add showing matches in table and panel with delete option only" />
+    <MESSAGE value="Add option to add rating to a game" />
+    <MESSAGE value="Add game rating in UpdateData" />
+    <MESSAGE value="Add Player Profile" />
+    <MESSAGE value="Add Meeting Data panel" />
+    <MESSAGE value="Fix game stats being double shown in player profile" />
+    <MESSAGE value="Add back button listener for MeetingData and a bit of refactoring" />
+    <MESSAGE value="Add basic GameData screen" />
+    <MESSAGE value="Fix adding meeting" />
+    <MESSAGE value="Add refresh view after adding to database and entering panel + small fixes" />
+    <MESSAGE value="Fix adding meeting without food and null exception in miejsceComboBox" />
+    <MESSAGE value="Fix showing empty expansions list in AddExpansion" />
+    <MESSAGE value="Minor changes in MeetingData" />
+    <MESSAGE value="Fix null pointer exception in UpdateData.miejsceSpotkaniaComboBox listener" />
+    <MESSAGE value="Change table cells to uneditable where desired" />
+    <MESSAGE value="Some TODOs" />
+    <MESSAGE value="Fix deleting expansion and deleting/adding food" />
+    <MESSAGE value="Changes by Mariusz" />
+    <MESSAGE value="Fixes" />
+    <MESSAGE value="Fix miejsceComboBox values in AddMeeting" />
+    <MESSAGE value="Small fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Small fixes" />
+  </component>
+</project>
